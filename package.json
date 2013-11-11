@@ -35,7 +35,7 @@
     "mime": "~1.2.5",
     "lodash": "~2.2.1",
     "inherit": "~1.0.0",
-    "borschik": "git://github.com/podkot/borschik.git#v0.4.0-regru-1",
+    "borschik": "git://github.com/regru/borschik.git#v0.4.0-regru-1",
     "apw": "~0.3.13",
     "winston": ">= 0.5.0",
     "dom-js": "*",
